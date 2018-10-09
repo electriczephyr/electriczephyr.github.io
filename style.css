@@ -1,0 +1,26 @@
+/* Setting up body */
+
+body{
+    margin: 0px;
+    padding: 24px;
+    background: #defcd9;
+    font-size: 32px;
+    font-family: 'Nunito', sans-serif;
+}
+
+p{
+    margin: 20px;
+    font-size: 24px;
+    color: #403f3c;
+
+}
+
+h1 {
+    font-family: 'Shrikhand', cursive;
+    font-size: 92px;
+    margin: 0px;
+    color: #1eb5b0;
+
+}
+
+
